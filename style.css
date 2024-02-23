@@ -1,0 +1,22 @@
+.container2{
+    border: solid 1px;
+    margin: 1px;
+    border-radius: 20px;
+    display: flex; 
+    flex-direction: row;
+    padding: 60px  120px
+
+
+}
+.image{
+    border: solid 1px;
+    margin: 4px;
+    border-radius: 10%;
+    padding: 130px 120px
+}
+.form{
+    border: solid 1px;
+    margin: 4px;
+    border-radius: 10%;
+    padding: 50px 100px
+}
